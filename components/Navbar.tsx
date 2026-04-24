@@ -64,6 +64,9 @@ export default function Navbar() {
             Projets
           </a>
 
+          <a href="#services" className={linkClass("services")}>
+            Services
+          </a>
           <a href="#contact" className={linkClass("contact")}>
             Contact
           </a>
